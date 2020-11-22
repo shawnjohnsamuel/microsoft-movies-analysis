@@ -1,10 +1,10 @@
 ![microsoft movies analysis by shawn samuel](images/microsoft_movies_notebook_banner.png)
 # Microsoft Movies: Entertainment Beyond Xbox
 
-**Author**: [Shawn Samuel](mailto:shawnjohnsamuel@gmail.com)
+**Author**: [Shawn Samuel](mailto:shawnjohnsamuel@gmail.com)  
 
 ## Overview
-This project analyzes the movie landscape to derive meaningful recommendations for Microsoft's potential new movie making entity. We used established movie information databases such as iMDB and The Numbers to obtain movie information . Descriptive analysis show's that certain release months and genres could contribute to overall popularity of movies. Microsoft can use this analysis to develop a measure of success for this venture and to guide creative decisions about movie production and timing. 
+This project analyzes the movie landscape to derive meaningful recommendations for Microsoft's potential new movie making entity. We used established movie information databases such as iMDB and The Numbers to obtain movie information . Descriptive analysis show's that certain release months and genres could contribute to overall popularity of movies. Microsoft can use this analysis to develop a measure of success for this venture and to guide creative decisions about movie production and timing.  
 
 ## Business Problem
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired us to help them better understand the movie industry. Our team is charged with exploring what type of films are currently doing the best at the box office. We must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
@@ -33,7 +33,7 @@ This analysis leads to three recommendations for Microsoft's movie studio:
 2. **When do people want to watch?** Plan production timetables to to release movies in Jun/Jul or Nov/Dec.
 3. **How long do poeple want to watch?** We recommend keeping movie lengths between 100 and 150 minutes.
 
-### Next Steps
+## Next Steps
 Further analyses could yield additional insights to further Microsoft's creative decision making:
 - **Movie Franchises:** A quick glance of top grossing, most profitable, most reviewed and any other "top" lists of movies in the last 25 years tend to include many movies that are part of a continuing franchise. We would recommend further research in this area and build a potential business case that Microsoft should invest in creating movies in a new or exisiting franchisable library of content (eg. comics, book series, etc.)  
 - **Video Game Based Movies:** A step further from the point above, given Microsoft's 90 million active Xbox Live user base as an established and potential distribution channel for movies, it may be beneficial to research the video game based movie genre as a potential focus area. This would be especially profitable if it was connected with a video game or series that is already in the Xbox collection and offering.  
@@ -41,7 +41,7 @@ Further analyses could yield additional insights to further Microsoft's creative
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](movie-analysis.ipynb) or review this [presentation](movie-analysis.pdf).
+See the full analysis in the [Jupyter Notebook](microsoft-movies-analysis-sjs.ipynb) or review this [presentation](movie-analysis.pdf).
 
 For additional info, contact Shawn Samuel at [shawnjohnsamuel@gmail.com](mailto:shawnjohnsamuel@gmail.com)
 
@@ -51,6 +51,6 @@ For additional info, contact Shawn Samuel at [shawnjohnsamuel@gmail.com](mailto:
 ├── data
 ├── images
 ├── README.md
-├── movie-analysis.pdf
-└── movie-analysis.ipynb
+├── microsoft-movies-analysis-sjs.pdf
+└── microsoft-movies-analysis-sjs.ipynb
 ```
