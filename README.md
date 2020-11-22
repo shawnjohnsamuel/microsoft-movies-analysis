@@ -19,7 +19,7 @@ This project uses descriptive analysis, including description of trends over tim
 The movies that were in the top 25% of worldwide gross tended to be released in the summer months of Jun/Jul or the winter months of Nov/Dec. These were also the months the bottom 25% of worldwide gross tended *not* to be released.
 ![what months were the highest grossing and lowest grossing movies released?](images/q1_best_months_release_movies.png)
 
-A large proportion of movies included the genre 'Drama'. 65% of these had 10,000 reviews or more. 'Comedy', 'Action', and 'Thriller' were the next three genre's with highest number of movies with 10,000 reviews or more. These three genres also had higher ratios of movies with high voting engagment (10,000+ reviews) to movies with low voting engagement (8 reviews or less
+A large proportion of movies included the genre 'Drama'. 65% of these had 10,000 reviews or more. 'Comedy', 'Action', and 'Thriller' were the next three genre's with highest number of movies with 10,000 reviews or more. These three genres also had higher ratios of movies with high voting engagment (10,000+ reviews) to movies with low voting engagement (8 reviews or less). You'll also notice a very high frequency of 'Documenteries' that have 8 reviews or less.
 
 ![genres wiht the most number of reviews](images/q2_genre_of_most_least_reviwed_movies.png)
 
