@@ -51,6 +51,6 @@ For additional info, contact Shawn Samuel at [shawnjohnsamuel@gmail.com](mailto:
 ├── data
 ├── images
 ├── README.md
-├── microsoft-movies-analysis-sjs.ipynb.pdf
-└── microsoft-movies-analysis-sjs.ipynb.ipynb
+├── microsoft-movies-analysis-sjs.pdf
+└── microsoft-movies-analysis-sjs.ipynb
 ```
