@@ -25,7 +25,7 @@ A large proportion of movies included the genre 'Drama'. 65% of these had 10,000
 
 When focused on movies with high voter engagement (50,000+ votes), there are movies with above average ratings with a variety of runtimes. We do see they are clustered in the 100-150min range.
 
-![does runtime affect movie ratings?](q3_runtime_affect_movie_rating.png)
+![does runtime affect movie ratings?](images/q3_runtime_affect_movie_rating.png)
 
 ## Conclusions
 This analysis leads to three recommendations for Microsoft's movie studio:
@@ -41,7 +41,7 @@ Further analyses could yield additional insights to further Microsoft's creative
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./movieanalysis.ipynb) or review this [presentation](movie-analysis.pdf).
+See the full analysis in the [Jupyter Notebook](movie-analysis.ipynb) or review this [presentation](movie-analysis.pdf).
 
 For additional info, contact Shawn Samuel at [shawnjohnsamuel@gmail.com](mailto:shawnjohnsamuel@gmail.com)
 
