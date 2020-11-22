@@ -41,7 +41,7 @@ Further analyses could yield additional insights to further Microsoft's creative
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](/movieanalysis.ipynb) or review this [presentation](movie-analysis.pdf).
+See the full analysis in the [Jupyter Notebook](./movieanalysis.ipynb) or review this [presentation](movie-analysis.pdf).
 
 For additional info, contact Shawn Samuel at [shawnjohnsamuel@gmail.com](mailto:shawnjohnsamuel@gmail.com)
 
