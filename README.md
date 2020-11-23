@@ -41,16 +41,16 @@ Further analysis could yield additional insights to further Microsoft's creative
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](microsoft-movies-analysis-sjs.ipynb) or review this [presentation](movie-analysis.pdf).
+See the full analysis in the [Jupyter Notebook](project-notebook.ipynb) or review this [presentation](project-presentation.pdf).
 
 For additional info, contact Shawn Samuel at [shawnjohnsamuel@gmail.com](mailto:shawnjohnsamuel@gmail.com)
 
 ## Repository Structure
 
 ```
-├── data
-├── images
-├── README.md
-├── microsoft-movies-analysis-sjs.pdf
-└── microsoft-movies-analysis-sjs.ipynb
+├── [data](data)
+├── [images](imdages)
+├── [README.md](README.md)
+├── [project-notebook.ipynb](project-notebook.ipynb)
+└── [project-presendation.pdf](project-presentation.pdf)
 ```
