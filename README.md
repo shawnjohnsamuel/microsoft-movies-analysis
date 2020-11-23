@@ -48,9 +48,9 @@ For additional info, contact Shawn Samuel at [shawnjohnsamuel@gmail.com](mailto:
 ## Repository Structure
 
 ```
-├── [data](data)
-├── [images](imdages)
-├── [README.md](README.md)
-├── [project-notebook.ipynb](project-notebook.ipynb)
-└── [project-presendation.pdf](project-presentation.pdf)
+├── data
+├── images
+├── README.md
+├── project-notebook.ipynb
+└── project-presendation.pdf
 ```
